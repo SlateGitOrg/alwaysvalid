@@ -2,6 +2,22 @@
 
 > A sequential A/B calculator that ships the A/A simulation proving why peeking at a fixed-horizon test breaks it.
 
+## Live deployment
+
+[![CI and deployment](https://github.com/SlateGitOrg/alwaysvalid/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/SlateGitOrg/alwaysvalid/actions/workflows/ci.yml)
+
+[Open the interactive Always Valid demo](https://slategitorg.github.io/alwaysvalid/)
+
+The deployed interface uses a deterministic offline scenario to make the repository's tested decision rule visible without external services or private data.
+
+### Desktop
+
+![Always Valid desktop deployment](docs/assets/deployed-desktop.png)
+
+### Mobile
+
+<img src="docs/assets/deployed-mobile.png" alt="Always Valid mobile deployment" width="390">
+
 `COMPACT` · **Marketing Analyst** · Advanced · ~5-6 days · Education - online course conversion testing
 
 **Primary language:** TypeScript
